@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190177585008",
+    "project_id": "frandchat",
+    "storage_bucket": "frandchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190177585008:android:f1e4335521084c0cbc11b5",
+        "android_client_info": {
+          "package_name": "com.example.friendchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190177585008-ieaqs23t2me0t60js240l4mvm7o8rm8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcadh2gy6leBqje-GIl0OE5Wcvkmlxgfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190177585008-ieaqs23t2me0t60js240l4mvm7o8rm8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
